@@ -7,3 +7,6 @@ https://github.com/Daddyk5/xrwvm-fullstack_developer_capstone/blob/main/README.m
 <img width="1880" height="906" alt="image" src="https://github.com/user-attachments/assets/fd175989-79c2-433f-8768-621f7b82dadd" />
 
 <img width="1888" height="902" alt="image" src="https://github.com/user-attachments/assets/ee0a96f8-1711-4b6d-91d1-ca202060990e" />
+
+<img width="1192" height="407" alt="image" src="https://github.com/user-attachments/assets/ebf36160-65ce-4399-8498-f39c52f69dac" />
+
